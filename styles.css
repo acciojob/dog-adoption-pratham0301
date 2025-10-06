@@ -1,6 +1,5 @@
 /* styles.css */
 body { font-family: Arial, sans-serif; margin: 16px; }
-#dog-list { list-style: disc inside; padding: 0; }
-#dog-list li { margin: 12px 0; }
-#dog-list img { width: 220px; height: auto; display: block; border-radius: 6px; }
-#dog-list p { margin: 6px 0 0; }
+#dog-breeds { list-style: disc inside; padding: 0; }
+#dog-breeds li { margin: 12px 0; }
+#dog-breeds img { width: 220px; height: auto; display: block; border-radius: 6px; }
